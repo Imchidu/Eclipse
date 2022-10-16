@@ -6,7 +6,7 @@ public class Passport {
 	public int expiryDate;
 	public String country;
 	public String issueDate;
-	
+	 
 	public Passport(int number)
 	{
 		this.number = number;
